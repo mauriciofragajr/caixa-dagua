@@ -2,6 +2,8 @@
 
 Projeto iot para monitoria de sensores residenciais
 
+https://mancusoa74.blogspot.com/2018/02/simple-http-rest-server-on-esp8266.html
+
 - [![Autoconstruccion medidor nivel de depositos](http://img.youtube.com/vi/Df3rItnaVy8/0.jpg)](http://www.youtube.com/watch?v=Df3rItnaVy8)
 
 ![esp8266 esplorer](https://esp8266.ru/esplorer/)
